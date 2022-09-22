@@ -1,0 +1,60 @@
+{
+    "home": "Home",
+    
+    "singleRooms": "Single Rooms",
+    "apartments": "Apartments",
+    "houses": "Houses",
+
+    "newsTitle": "News",
+    "newsSubtitle": "Ads of interest",
+    "newsContent": "Here will appear offers for the best, nicest and chepest real estate that are currently available. Here will appear offers for the best, nicest and chepest real estate that are currently available. Here will appear offers for the best, nicest and chepest real estate that are currently available. Here will appear offers for the best, nicest and chepest real estate that are currently available. Here will appear offers for the best, nicest and chepest real estate that are currently available.",
+    "newsCardSource": "Source: ",
+    "newsCardDate": "Date: ",
+    "newsCardTime": "Time: ",
+    "newsCardButton": "See article",
+
+    "aboutTitle": "About Us",
+    "aboutSubtitle": "General informations",
+    "aboutContent": "Here will appear our history, targets and other informations. Here will appear our history, targets and other informations. Here will appear our history, targets and other informations. Here will appear our history, targets and other informations. Here will appear our history, targets and other informations. Here will appear our history, targets and other informations. Here will appear our history, targets and other informations. Here will appear our history, targets and other informations.",
+    
+    "rentingTitle": "Renting",
+
+    "sellingTitle": "Selling",
+
+    "offerTitle": "Title",
+    "offerDate": "Date",
+    "offerDescription": "Description",
+    "offerButton": "View",
+
+    "contactTitle": "Contact",
+    "location": "Location: ",
+    "phone": "Phone: ",
+    "email": "Email: ",
+    "placeholderEmail": "Email",
+    "placeholderMessage": "Message",
+    "send": "Send",
+
+    "footer": "Developed by ",
+
+    "register": "Register",
+    "registerName": "Full Name",
+    "registerEmail": "Email",
+    "password": "Password",
+    "login": "Log in",
+    "logout": "Log out",
+
+    "userInfo": "User info",
+    "userName": "Complete name: ",
+    "userEmail": "Email: ",
+    "userInfoUpdateButton": "Update",
+
+    "gdprTitle": "Upload GDPR file",
+    "gdprEmail": "The email address associated with your account: ",
+    "gdprNote": "The file is associated with your account. If you upload a new file, the old one will be overwritten. *",
+    "gdprButton": "Upload",
+    
+    "addOfferTitle": "Add Offer",
+    "addOfferInputTitle": "Title",
+    "addOfferInputDescription": "Description",
+    "addOfferInputButton": "Add"
+}

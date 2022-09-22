@@ -1,0 +1,60 @@
+{
+    "home": "Acasă",
+    
+    "singleRooms": "Garsoniere",
+    "apartments": "Apartamente",
+    "houses": "Case",
+
+    "newsTitle": "Știri",
+    "newsSubtitle": "Noutăți de interes",
+    "newsContent": "Aici vor fi afișate oferte pentru cele mai bune, cele mai frumoase și cele mai ieftine imobiliare care sunt disponibile momentan. Aici vor fi afișate oferte pentru cele mai bune, cele mai frumoase și cele mai ieftine imobiliare care sunt disponibile momentan. Aici vor fi afișate oferte pentru cele mai bune, cele mai frumoase și cele mai ieftine imobiliare care sunt disponibile momentan. Aici vor fi afișate oferte pentru cele mai bune, cele mai frumoase și cele mai ieftine imobiliare care sunt disponibile momentan. Aici vor fi afișate oferte pentru cele mai bune, cele mai frumoase și cele mai ieftine imobiliare care sunt disponibile momentan.",
+    "newsCardSource": "Sursă: ",
+    "newsCardDate": "Dată: ",
+    "newsCardTime": "Oră: ",
+    "newsCardButton": "Vezi articol",
+
+    "aboutTitle": "Despre Noi",
+    "aboutSubtitle": "Informații generale",
+    "aboutContent": "Aici vor fi afișate istoria noastră, obiectivele noastre precum și alte informații. Aici vor fi afișate istoria noastră, obiectivele noastre precum și alte informații. Aici vor fi afișate istoria noastră, obiectivele noastre precum și alte informații. Aici vor fi afișate istoria noastră, obiectivele noastre precum și alte informații. Aici vor fi afișate istoria noastră, obiectivele noastre precum și alte informații. Aici vor fi afișate istoria noastră, obiectivele noastre precum și alte informații. Aici vor fi afișate istoria noastră, obiectivele noastre precum și alte informații. Aici vor fi afișate istoria noastră, obiectivele noastre precum și alte informații.",
+    
+    "rentingTitle": "Închiriere",
+
+    "sellingTitle": "Vânzare",
+    
+    "offerTitle": "Titlu",
+    "offerDate": "Dată",
+    "offerDescription": "Descriere",
+    "offerButton": "Vizualizează",
+
+    "contactTitle": "Contact",
+    "location": "Locație: ",
+    "phone": "Telefon: ",
+    "email": "Email: ",
+    "placeholderEmail": "Email",
+    "placeholderMessage": "Mesaj",
+    "send": "Trimite",
+    
+    "footer": "Dezvoltat de ",
+
+    "register": "Înregistrare",
+    "registerName": "Nume complet",
+    "registerEmail": "Email",
+    "password": "Parolă",
+    "login": "Autentificare",
+    "logout": "Ieșire din cont",
+
+    "userInfo": "Informații utilizator",
+    "userName": "Nume complet: ",
+    "userEmail": "Email: ",
+    "userInfoUpdateButton": "Actualizare",
+
+    "gdprTitle": "Încarcă fișier GDPR",
+    "gdprEmail": "Adresa de email asociată cu contul tău: ",
+    "gdprNote": "Fișierul este asociat contului tău: .Dacă încarci un nou fișier, cel vechi va fi suprascris. *",
+    "gdprButton": "Încarcă",
+    
+    "addOfferTitle": "Adaugă Anunț",
+    "addOfferInputTitle": "Titlu",
+    "addOfferInputDescription": "Descriere",
+    "addOfferInputButton": "Adaugă"
+}

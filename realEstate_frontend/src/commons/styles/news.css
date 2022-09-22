@@ -1,0 +1,62 @@
+.container {
+    margin: 0 10% 5% 10%;
+}
+.card {
+    background-color: #fff;
+    position: relative;
+    display: grid;
+    grid-template-columns: 350px 800px;
+    border-radius: 5px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.356);
+}
+.card img {
+    width: 350px;
+    height: 350px;
+    border-radius: 5px 0 0 5px;
+}
+.card .btn {
+    position: absolute;
+    bottom: -20px;
+    right: -20px;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    background-color: #ff9500;
+    color: #fff;
+    padding: 15px 30px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.294);
+}
+.card .btn i {
+    font-size: 1.5rem;
+}
+.card__text {
+    padding: 10px 50px;
+}
+.card__text h1 {
+    color: #653bf0;
+    font-weight: 600;
+}
+.card__text p {
+    font-size: 0.9rem;
+}
+.card__text .card__text__timing {
+    display: flex;
+    text-align: center;
+}
+.card__text .card__text__timing .card__text__timing_time {
+    margin-left: 100px;
+}
+.card__text .card__text__timing h2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #818189;
+}
+.card__text .card__text__timing p {
+    color: #000000;
+    font-size: 1.2rem;
+}
